@@ -29,3 +29,8 @@ game28.dta
 
 # Log files
 warnings.log
+
+# Node / TypeScript
+node_modules/
+dist/
+.env
